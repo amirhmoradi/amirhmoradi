@@ -1,6 +1,6 @@
 # Hi there, I'm Amir Moradi 👋
 
-## I'm a happy husband and father, passionate hands-on CTO and full-stack software architecte as well as a constant learner.
+## I'm a happy husband and father, passionate hands-on CTO and full-stack software architect as well as a constant learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhmoradi&label=Profile%20views&color=blueviolet&style=flat" alt="amirhmoradi" /> </p>
 
