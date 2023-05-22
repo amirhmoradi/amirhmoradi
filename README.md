@@ -1,6 +1,6 @@
 # Hi there, I'm Amir Moradi 👋
 
-### A passionate full-stack software architecte and hands-on CTO.
+## I'm a happy husband and father, passionate hands-on CTO and full-stack software architecte as well as a constant learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhmoradi&label=Profile%20views&color=blueviolet&style=flat" alt="amirhmoradi" /> </p>
 
@@ -8,8 +8,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirhmoradi&column=5&margin-w=5&margin-h=5&no-frame=true" alt="Amir Moradi's trophies." /> 
 </p>
 
-
-### I'm a happy husband and father, passionate hands-on CTO and software engineer, constant learner.
 
 - 🔭 I’m currently working on multiple projects:
   - [<img alt="Calidy" width="16px" src="https://avatars.githubusercontent.com/u/93839102?s=200&v=4" /> Appointment Scheduling for Everyone, everywhere ][job-calidy]
