@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhmoradi&label=Profile%20views&color=blueviolet&style=flat" alt="amirhmoradi" /> </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirhmoradi&column=5&margin-w=5&margin-h=5&no-frame=true" alt="Amir Moradi's trophies." /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirhmoradi&column=5&margin-w=5&margin-h=5&no-frame=true&no-bg=true" alt="Amir Moradi's trophies." /> 
 </p>
 
 
