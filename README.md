@@ -198,7 +198,29 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 
 <!-- STARRED_REPOS_START -->
 
+### 📑 Table of Contents
+
+- [🤖 AI & Machine Learning](#ai-machine-learning) (103)
+- [⚙️ DevOps & Infrastructure](#devops-infrastructure) (52)
+- [🌐 Web Development](#web-development) (37)
+- [🏠 Self-Hosted](#self-hosted) (37)
+- [🔌 APIs & SDKs](#apis-sdks) (33)
+- [🔒 Security & Privacy](#security-privacy) (27)
+- [📦 Miscellaneous](#miscellaneous) (25)
+- [🔧 CLI Tools](#cli-tools) (18)
+- [🎨 Design & UI](#design-ui) (17)
+- [🖥️ Desktop Applications](#desktop-applications) (15)
+- [📱 Mobile Development](#mobile-development) (13)
+- [📚 Documentation & Learning](#documentation-learning) (11)
+- [📊 Data Engineering](#data-engineering) (6)
+- [💾 Databases](#databases) (4)
+- [🚀 Starter Templates](#starter-templates) (4)
+- [🧪 Testing & QA](#testing-qa) (3)
+
+---
+
 ### 🤖 AI & Machine Learning
+*Machine learning, deep learning, NLP, computer vision, AI tools*
 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) `Python` ⭐ 160,196 - Stable Diffusion web UI
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) `TypeScript` ⭐ 143,503 - Share, discover, and collect prompts from the community. Free and open source — self-host for your o...
@@ -231,8 +253,10 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) `TypeScript` ⭐ 28,157 - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Fr...
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) `Python` ⭐ 27,817 - An LLM-powered knowledge curation system that researches a topic and generates a full-length report ...
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) `Python` ⭐ 27,608 - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- *...and 72 more*
 
 ### ⚙️ DevOps & Infrastructure
+*CI/CD, containers, orchestration, cloud infrastructure*
 
 - [dockur/windows](https://github.com/dockur/windows) `Shell` ⭐ 49,639 - Windows inside a Docker container.
 - [dockur/macos](https://github.com/dockur/macos) `Shell` ⭐ 18,420 - MacOS inside a Docker container.
@@ -265,8 +289,10 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) `Dockerfile` ⭐ 179 - Matomo (formerly Piwik) Docker image
 - [goofball222/pritunl](https://github.com/goofball222/pritunl) `Shell` ⭐ 123 - Pritunl Docker container with IPv6 and reverse-proxy support
 - [dockur/portainer-backup](https://github.com/dockur/portainer-backup) `JavaScript` ⭐ 118 - Portainer Backup Utility
+- *...and 21 more*
 
 ### 🌐 Web Development
+*Frontend, backend, fullstack frameworks and tools*
 
 - [supabase/supabase](https://github.com/supabase/supabase) `TypeScript` ⭐ 96,711 - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your we...
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) `JavaScript` ⭐ 67,048 - Simple HTML5 Charts using the <canvas> tag
@@ -299,8 +325,10 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [thecreazy/cerbero](https://github.com/thecreazy/cerbero) `TypeScript` ⭐ 64 - Track your users interactions 
 - [amnezia-vpn/amneziawg-exporter](https://github.com/amnezia-vpn/amneziawg-exporter) `Python` ⭐ 27 - amneziawg-exporter 
 - [codeniko/simple-tracker](https://github.com/codeniko/simple-tracker) `JavaScript` ⭐ 25 - Easy client-side tracking library to log events, metrics, errors, and messages
+- *...and 6 more*
 
 ### 🏠 Self-Hosted
+*Self-hosted alternatives, privacy-focused services*
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) `JavaScript` ⭐ 81,874 - A fancy self-hosted monitoring tool
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) `PHP` ⭐ 49,854 - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily depl...
@@ -333,8 +361,10 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [Monogramm/docker-dolibarr](https://github.com/Monogramm/docker-dolibarr) `Shell` ⭐ 73 - :whale: :elephant: Docker image for Dolibarr.
 - [sharonpraju/SupaConsole](https://github.com/sharonpraju/SupaConsole) `TypeScript` ⭐ 64 - Selfhost & Manage multiple Supabase projects
 - [benbristow/dokploy-compose-templates](https://github.com/benbristow/dokploy-compose-templates) ⭐ 63 - Collection of docker-compose configs for self-hosted tools, compatible with Dokploy
+- *...and 6 more*
 
 ### 🔌 APIs & SDKs
+*API clients, SDKs, integrations*
 
 - [novuhq/novu](https://github.com/novuhq/novu) `TypeScript` ⭐ 38,478 - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) `JavaScript` ⭐ 29,246 - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千...
@@ -367,8 +397,10 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [tomershvueli/n8n-nodes-apprise](https://github.com/tomershvueli/n8n-nodes-apprise) `TypeScript` ⭐ 5
 - [howtomakeaturn/EasyContact](https://github.com/howtomakeaturn/EasyContact) `PHP` ⭐ 5 - The fastest way to get users' email contact from Gmail and Microsoft Outlook.
 - [moltin/tax](https://github.com/moltin/tax) `PHP` ⭐ 4 - Tax calculations for Moltin\Cart
+- *...and 2 more*
 
 ### 🔒 Security & Privacy
+*Security tools, encryption, privacy-focused software*
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) `Java` ⭐ 63,785 - Ghidra is a software reverse engineering (SRE) framework
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) `Go` ⭐ 57,827 - A simple zero-config tool to make locally trusted development certificates with any names you'd like...
@@ -399,6 +431,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [heptaber/wireguard_vpn](https://github.com/heptaber/wireguard_vpn) `Shell` ⭐ 1 - Script for automating Wireguard VPN server setup, Unbound DNS resolver setup.
 
 ### 📦 Miscellaneous
+*Other useful repositories*
 
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) `Nunjucks` ⭐ 39,956 - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) `Python` ⭐ 32,380 - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
@@ -427,6 +460,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [Ascend-Partners/adri-irn-lab-28498](https://github.com/Ascend-Partners/adri-irn-lab-28498) `TypeScript` ⭐ 1 - LEGACY - Initial POC of the IRN Lab project. Kept for reference until full migration. Will be archiv...
 
 ### 🔧 CLI Tools
+*Command line utilities and terminal tools*
 
 - [openai/codex](https://github.com/openai/codex) `Rust` ⭐ 57,210 - Lightweight coding agent that runs in your terminal
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) `JavaScript` ⭐ 49,393 - Based on a true story
@@ -448,6 +482,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [bayesimpact/bayes-developer-setup](https://github.com/bayesimpact/bayes-developer-setup) `Python` ⭐ 2 - PUBLICLY VISIBLE. Tools, files, and other necessary things to get your machine configured for work a...
 
 ### 🎨 Design & UI
+*Design tools, UI components, styling*
 
 - [penpot/penpot](https://github.com/penpot/penpot) `Clojure` ⭐ 43,860 - Penpot: The open-source design tool for design and code collaboration
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) `JavaScript` ⭐ 25,044 - JavaScript image gallery for mobile and desktop, modular, framework independent
@@ -468,6 +503,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [SeattleDevs/bootstrap-social](https://github.com/SeattleDevs/bootstrap-social) `HTML` ⭐ 1 - :couple: Social Sign-In Buttons for Bootstrap
 
 ### 🖥️ Desktop Applications
+*Desktop apps, GUI frameworks, system utilities*
 
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) `C#` ⭐ 128,355 - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) `Rust` ⭐ 101,830 - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -486,6 +522,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [siefkenj/MailMergeP](https://github.com/siefkenj/MailMergeP) `TypeScript` ⭐ 18 - Mail Merge P add-on for Thunderbird
 
 ### 📱 Mobile Development
+*iOS, Android, cross-platform mobile frameworks*
 
 - [RocketChat/Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) `TypeScript` ⭐ 2,335 - The Secure CommsOS™ for mission-critical operations
 - [arnesson/cordova-plugin-firebase](https://github.com/arnesson/cordova-plugin-firebase) `Objective-C` ⭐ 1,001 - Cordova plugin for Google Firebase
@@ -502,6 +539,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [infobip/mobile-messaging-mmine](https://github.com/infobip/mobile-messaging-mmine) `Ruby` ⭐ 3 - Mobile Messaging iOS Notification Extension Integration Tool!!!
 
 ### 📚 Documentation & Learning
+*Learning resources, tutorials, documentation tools*
 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐ 336,202 - A complete computer science study plan to become a software engineer.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) `Python` ⭐ 217,146 - All Algorithms implemented in Python
@@ -516,6 +554,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [songquanpeng/songquanpeng](https://github.com/songquanpeng/songquanpeng) `Python` ⭐ 18 - Automatically update your GitHub profile with GitHub Actions.
 
 ### 📊 Data Engineering
+*Data pipelines, ETL, databases, analytics*
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) `TypeScript` ⭐ 171,100 - Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
 - [PostHog/posthog](https://github.com/PostHog/posthog) `Python` ⭐ 30,959 - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product ana...
@@ -525,6 +564,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [DrSnowbird/openrefine](https://github.com/DrSnowbird/openrefine) `Shell` ⭐ 4 - OpenRefine Docker for Data ETL/ELT
 
 ### 💾 Databases
+*Database systems, ORMs, data storage*
 
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) `Go` ⭐ 42,402 - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) `Rust` ⭐ 28,386 - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next gener...
@@ -532,6 +572,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [pinterest/mysql_utils](https://github.com/pinterest/mysql_utils) `Python` ⭐ 881 - Pinterest MySQL Management Tools
 
 ### 🚀 Starter Templates
+*Boilerplates, starter kits, project templates*
 
 - [makerkit/next-supabase-saas-kit-turbo](https://github.com/makerkit/next-supabase-saas-kit-turbo) `TypeScript` ⭐ 257 - SaaS Kit Starter for Next.js and Supabase - Turbo Edition
 - [Dokploy/templates](https://github.com/Dokploy/templates) `TypeScript` ⭐ 159 - All the open source templates integrated to dokploy 🚀
@@ -539,12 +580,17 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [platformsh-templates/akeneo](https://github.com/platformsh-templates/akeneo) `PHP` ⭐ 4 - Akeneo template for Platform.sh.
 
 ### 🧪 Testing & QA
+*Testing frameworks, quality assurance tools*
 
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) `JavaScript` ⭐ 4,382 - Google Lighthouse for your entire site.
 - [10up/wp_mock](https://github.com/10up/wp_mock) `PHP` ⭐ 709 - WordPress API Mocking Framework
 - [Brain-WP/BrainMonkey](https://github.com/Brain-WP/BrainMonkey) `PHP` ⭐ 326 - Mocking utility for PHP functions and WordPress plugin API
 
 *[View all 405 starred repositories →](STARRED_REPOS.md)*
+
+---
+
+*Generated by [Starred](https://github.com/yourusername/starred) - AI-powered GitHub stars organizer*
 
 <!-- STARRED_REPOS_END -->
 
