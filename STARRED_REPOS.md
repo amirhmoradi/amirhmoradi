@@ -1,204 +1,11 @@
-# Amir Moradi | AI Implementation Expert & Enterprise CTO
+# ⭐ My Starred Repositories
 
-<p align="left">
-  <a href="https://linkedin.com/in/amirhmoradi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://amirmoradi.com"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-</p>
+*Last updated: 2026-01-25 07:46 UTC*
+*Categorized using openai (gpt-4o)*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhmoradi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+**405** repositories organized into **16** categories
 
----
-
-## 🎯 Transforming Enterprises Through AI & Strategic Technology Leadership
-
-Hands-on CTO and AI implementation specialist who bridges the gap between cutting-edge technology and organizational reality. I don't just build AI solutions - I ensure they get **adopted, deliver ROI, and transform how your teams work**.
-
-**13+ years** of leading technical transformations | **Deep expertise** in AI automation, change management, and enterprise architecture
-
-### 💼 How I Help Enterprise Organizations Succeed with AI
-
-**AI Implementation & Automation**
-- End-to-end AI solution architecture and deployment
-- Generative AI integration (LLMs, RAG, AI agents)
-- Intelligent automation and workflow optimization
-- AI strategy development and roadmap planning
-- Proof-of-concept to production scaling
-
-**Organizational Change Management**
-- Change management for AI and technology adoption
-- Team training, upskilling, and AI literacy programs
-- Stakeholder alignment and executive buy-in
-- Process redesign around AI capabilities
-- Measuring and demonstrating AI ROI
-
-**Technology Leadership & Architecture**
-- CTO-as-a-Service for growing companies
-- Cloud-native architecture (AWS, Azure, GCP)
-- Digital transformation and modernization
-- Engineering team building and scaling
-- Technical due diligence for M&A
-
----
-
-## 🤖 Why AI Projects Fail (And How I Prevent It)
-
-Most AI initiatives fail not because of technology, but because of **people and process**. I specialize in:
-
-✅ **Strategic Alignment** - Ensuring AI investments solve real business problems  
-✅ **User Adoption** - Designing change management programs that drive engagement  
-✅ **Team Enablement** - Training teams to work effectively with AI tools  
-✅ **Process Integration** - Embedding AI into existing workflows seamlessly  
-✅ **Risk Management** - Addressing ethical, security, and compliance concerns  
-✅ **Measurable Outcomes** - Establishing KPIs and proving ROI  
-
-**I deliver AI solutions that teams actually use and executives can measure.**
-
----
-
-
-## 🛠️ Technical Expertise
-
-<details open>
-<summary><b>AI & Machine Learning Implementation</b></summary>
-<br/>
-
-🤖 AI/ML: GPT-4, Claude, OpenAI API, Anthropic API, LangChain 🧠 AI Systems: RAG (Retrieval Augmented Generation), AI Agents, Fine-tuning 🔄 AI Automation: n8n, Make, Zapier, Custom AI Workflows 📊 ML Frameworks: TensorFlow, PyTorch, Scikit-learn 💾 Vector Databases: Pinecone, Weaviate, Chroma, PostgreSQL + pgvector 🎯 AI Strategy: Use Case Identification, ROI Modeling, Ethical AI Frameworks
-
-</details>
-
-<details open>
-<summary><b>Enterprise Architecture & Infrastructure</b></summary>
-<br/>
-
-☁️ Cloud Platforms: AWS, Azure, Google Cloud Platform 🏗️ Architecture: Microservices, Event-Driven, Serverless, Domain-Driven Design 🔄 DevOps/CI/CD: Docker, Kubernetes, Terraform, GitHub Actions, ArgoCD 📊 Databases: PostgreSQL, MongoDB, Redis, Elasticsearch 🔐 Security: OAuth2, JWT, Zero Trust Architecture, SOC2, GDPR Compliance
-
-</details>
-
-<details open>
-<summary><b>Software Development & Modern Stack</b></summary>
-<br/>
-
-⚙️ Backend: Node.js, Python, Go, .NET Core 🎨 Frontend: React, Next.js, TypeScript, Vue.js, Tailwind CSS 📱 Mobile: React Native, Flutter 🔌 APIs: REST, GraphQL, gRPC, WebSocket, API Gateway Design
-
-</details>
-
-<details open>
-<summary><b>Leadership & Change Management</b></summary>
-<br/>
-
-🔄 Change Management: Prosci ADKAR, Kotter's 8-Step, Stakeholder Analysis 👥 Team Leadership: Agile/Scrum, OKRs, Remote Team Management, Tech Hiring 📈 Business Strategy: P&L Management, Vendor Negotiation, ROI Analysis 🎯 Product Management: Roadmap Planning, User Research, Data-Driven Decisions 🎓 Training & Enablement: Technical Training, AI Literacy, Workshop Facilitation
-
-</details>
-
----
-
-## 📊 Track Record & Impact
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhmoradi&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhmoradi&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
-## 💡 Engagement Models
-
-**AI Strategy & Implementation**  
-Complete AI solution delivery from strategy through deployment and adoption - includes technical architecture, change management, and team training
-
-**Fractional CTO**  
-Part-time executive technology leadership - strategic planning, architecture oversight, team development, and vendor management
-
-**Change Management for Tech Adoption**  
-Organizational change programs for AI, cloud migrations, digital transformation, or new tool rollouts - ensuring teams embrace change
-
-**Team Augmentation & Technical Advisory**  
-Expert-level AI/ML architecture, hands-on development, and technical guidance for complex projects
-
----
-
-## 🎯 Ideal Client Engagements
-
-I work best with organizations that are:
-
-- 🚀 **Implementing AI** but struggling with adoption or unclear ROI
-- 🏢 **Scaling rapidly** and need fractional CTO leadership
-- 🔄 **Undergoing digital transformation** and need change management expertise
-- 💡 **Innovating** with new technologies but facing organizational resistance
-- ⚡ **Modernizing legacy systems** while managing business continuity
-- 👥 **Building or restructuring** engineering teams and practices
-
-### 📅 Let's Transform Your Organization
-
-**Common engagement outcomes:**
-- ✅ AI pilots successfully deployed and scaled to production
-- ✅ 60-80% user adoption rates on new technology initiatives  
-- ✅ Engineering teams operating with modern practices and tools
-- ✅ Clear ROI demonstrated on technology investments
-- ✅ Reduced time-to-market through improved processes
-- ✅ Stakeholder confidence in technology direction
-
-**Ready to discuss your transformation?**
-
-<p>
-  <a href="https://www.amirmoradi.com"><img src="https://img.shields.io/badge/📧_Book_Strategy_Session-Schedule_Now-00C7B7?style=for-the-badge" alt="Book Strategy Session" /></a>
-  <a href="https://www.linkedin.com/in/amirhmoradi/"><img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-</p>
-
----
-
-## 🎓 Areas of Deep Expertise
-
-**AI & Automation**
-- Large Language Model (LLM) integration and optimization
-- Retrieval Augmented Generation (RAG) systems
-- AI-powered workflow automation
-- Custom AI agent development
-- Prompt engineering and LLM operations
-
-**Organizational Transformation**
-- Technology adoption programs
-- Executive coaching on AI strategy
-- Cross-functional team alignment
-- Process optimization and redesign
-- Training program development
-
-**Enterprise Architecture**
-- Cloud migration and modernization
-- Scalable system design
-- API strategy and integration
-- Data architecture and governance
-- Security and compliance frameworks
-
----
-
-## 📝 Thought Leadership & Insights
-
-<!-- Add your content here, examples:
-- [Blog] How to Successfully Deploy AI in Enterprise: A Change Management Framework
-- [Article] The CTO's Guide to Measuring AI ROI
-- [Case Study] Scaling AI Adoption from 10% to 85% in 6 Months
-- [Talk] Leading Technical Transformation in Legacy Organizations
--->
-
-**Speaking & Workshops Available**
-- AI Strategy for Non-Technical Executives
-- Change Management for Technology Leaders
-- Building AI-Ready Engineering Teams
-- From Proof of Concept to Production: Scaling AI
-
----
-
-## ⭐ My Starred Repositories
-
-Automatically generated and maintained by <a href="https://github/amirhmoradi/starred">⭐ Starred</a>.
-
-<!-- STARRED_REPOS_START -->
-
-### 📑 Table of Contents
+## 📑 Table of Contents
 
 - [🤖 AI & Machine Learning](#ai-machine-learning) (103)
 - [⚙️ DevOps & Infrastructure](#devops-infrastructure) (52)
@@ -219,7 +26,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 
 ---
 
-### 🤖 AI & Machine Learning
+## 🤖 AI & Machine Learning
 *Machine learning, deep learning, NLP, computer vision, AI tools*
 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) `Python` ⭐ 160,196 - Stable Diffusion web UI
@@ -253,9 +60,80 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) `TypeScript` ⭐ 28,157 - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Fr...
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) `Python` ⭐ 27,817 - An LLM-powered knowledge curation system that researches a topic and generates a full-length report ...
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) `Python` ⭐ 27,608 - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-- *...and 72 more*
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) `TypeScript` ⭐ 26,602 - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, ...
+- [simstudioai/sim](https://github.com/simstudioai/sim) `TypeScript` ⭐ 26,183 - Open-source platform to build and deploy AI agent workflows.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) `TypeScript` ⭐ 25,768 - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to...
+- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) `JavaScript` ⭐ 25,044 - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) `Python` ⭐ 25,010 - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) `Python` ⭐ 24,554 - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses...
+- [google/langextract](https://github.com/google/langextract) `Python` ⭐ 23,657 - A Python library for extracting structured information from unstructured text using LLMs with precis...
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) `Python` ⭐ 22,369 - Python scraper based on AI
+- [getzep/graphiti](https://github.com/getzep/graphiti) `Python` ⭐ 22,269 - Build Real-Time Knowledge Graphs for AI Agents
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) `TypeScript` ⭐ 21,435 - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perf...
+- [letta-ai/letta](https://github.com/letta-ai/letta) `Python` ⭐ 20,813 - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-...
+- [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) `Python` ⭐ 20,426 - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, a...
+- [oraios/serena](https://github.com/oraios/serena) `Python` ⭐ 19,151 - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & ...
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) `Rust` ⭐ 18,867 - Get 10X more out of Claude Code, Codex or any coding agent
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) `TypeScript` ⭐ 18,834 - 一款提示词优化器，助力于编写高质量的提示词
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) `Rust` ⭐ 18,561 - A high-performance algorithmic trading platform and event-driven backtester
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) `Jupyter Notebook` ⭐ 18,462 - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained mode...
+- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) `Python` ⭐ 17,784 - Stable Diffusion with Core ML on Apple Silicon
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) `Python` ⭐ 17,680 - Janus-Series: Unified Multimodal Understanding and Generation Models
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) `Python` ⭐ 17,668 - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep resea...
+- [hubotio/hubot](https://github.com/hubotio/hubot) `JavaScript` ⭐ 16,770 - A customizable life embetterment robot.
+- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) `Python` ⭐ 15,746 - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated...
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) `TypeScript` ⭐ 14,429 - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most p...
+- [coleam00/Archon](https://github.com/coleam00/Archon) `Python` ⭐ 13,629 - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) `TypeScript` ⭐ 13,404 - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) `TypeScript` ⭐ 12,857 - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordi...
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) `TypeScript` ⭐ 12,702 - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) `Python` ⭐ 12,064 - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud...
+- [trycua/cua](https://github.com/trycua/cua) `Python` ⭐ 11,913 - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and eva...
+- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) `Python` ⭐ 11,864 - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) `TypeScript` ⭐ 10,367 - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 f...
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) `C++` ⭐ 9,953 - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD ...
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) `TypeScript` ⭐ 9,884 - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) `Python` ⭐ 9,671 - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% pri...
+- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) `Python` ⭐ 9,608 - A research prototype of a human-centered web agent
+- [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) `Python` ⭐ 9,589 - Agent S: an open agentic framework that uses computers like a human
+- [modelscope/facechain](https://github.com/modelscope/facechain) `Jupyter Notebook` ⭐ 9,497 - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) `Rust` ⭐ 9,407 - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diar...
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) `Python` ⭐ 9,381 - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake...
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) `TypeScript` ⭐ 8,931 - The best way to get AI coding agents to solve hard problems in complex codebases.
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) `Python` ⭐ 8,829 - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
+- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) `TypeScript` ⭐ 8,178 - Typescript/React Library for AI Chat💬🚀
+- [vladmandic/sdnext](https://github.com/vladmandic/sdnext) `Python` ⭐ 6,905 - SD.Next: All-in-one WebUI for AI generative image and video creation
+- [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) `TypeScript` ⭐ 6,273 - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbo...
+- [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai) `Python` ⭐ 6,149 - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone...
+- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) `TypeScript` ⭐ 5,431 - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) `Python` ⭐ 5,253 - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+- [Plachtaa/VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) `Python` ⭐ 5,011 - This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice c...
+- [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) `Python` ⭐ 4,594 - ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video genera...
+- [gpustack/gpustack](https://github.com/gpustack/gpustack) `Python` ⭐ 4,419 - Performance-Optimized AI Inference on Your GPUs. Unlock it by selecting and tuning the optimal infer...
+- [presenton/presenton](https://github.com/presenton/presenton) `TypeScript` ⭐ 3,790 - Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
+- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) `Python` ⭐ 3,571 - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX...
+- [swirlai/swirl-search](https://github.com/swirlai/swirl-search) `Python` ⭐ 2,950 - AI Search & RAG Without Moving Your Data. Get instant answers from your company's knowledge across 1...
+- [containers/ramalama](https://github.com/containers/ramalama) `Python` ⭐ 2,543 - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any so...
+- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) `Python` ⭐ 2,041 - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+- [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) `Python` ⭐ 1,753 - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the po...
+- [srikanth235/privy](https://github.com/srikanth235/privy) `TypeScript` ⭐ 991 - An open-source alternative to GitHub copilot that runs locally.
+- [ravitemer/mcp-hub](https://github.com/ravitemer/mcp-hub) `JavaScript` ⭐ 423 - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and mo...
+- [LLmHub-dev/open-computer-use](https://github.com/LLmHub-dev/open-computer-use) `TypeScript` ⭐ 300 - The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditab...
+- [ConvoStack/convostack](https://github.com/ConvoStack/convostack) `TypeScript` ⭐ 251 - Plug and play embeddable AI chatbot widget and backend deployment framework
+- [FradSer/dotclaude](https://github.com/FradSer/dotclaude) `Shell` ⭐ 200 - A comprehensive development environment with specialized AI agents for code review, security analysi...
+- [Kr1sJFU/iMontage](https://github.com/Kr1sJFU/iMontage) `Python` ⭐ 184 - iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation
+- [blopa/Magento-Chatbot](https://github.com/blopa/Magento-Chatbot) `PHP` ⭐ 181 - Magento Chatbot Integration with Telegram, Messenger, Whatsapp, WeChat, Skype and wit.ai.
+- [James4Ever0/agi_computer_control](https://github.com/James4Ever0/agi_computer_control) `Python` ⭐ 149 - The first autonomous computer program that can do anything to earn money without human operators.
+- [YZ-Cai/SimGRAG](https://github.com/YZ-Cai/SimGRAG) `Python` ⭐ 132 - Official code of the ACL 2025 paper "SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driv...
+- [bunyaminergen/Callytics](https://github.com/bunyaminergen/Callytics) `Python` ⭐ 74 - Callytics is an advanced call analytics solution that leverages speech recognition and large languag...
+- [yujiosaka/knowhub](https://github.com/yujiosaka/knowhub) `TypeScript` ⭐ 36 - Synchronize AI coding–agent knowledge files (rules, templates, guidelines) across your project.
+- [rforgeon/AgentRails](https://github.com/rforgeon/AgentRails) `TypeScript` ⭐ 32 - A modern dashboard for managing and monitoring your AI agents. "Cursor for agents"
+- [stanislav-web/phalcon-sms-factory](https://github.com/stanislav-web/phalcon-sms-factory) `HTML` ⭐ 31 - Phalcon SMS Factory
+- [ZubeidHendricks/huly-mcp](https://github.com/ZubeidHendricks/huly-mcp) `TypeScript` ⭐ 5
+- [mrsimpson/piddie](https://github.com/mrsimpson/piddie) `TypeScript` ⭐ 4 - Prompt driven development environment
+- [amirhmoradi/starred](https://github.com/amirhmoradi/starred) `Python` ⭐ 1 - Automatically categorize your GitHub starred repositories using AI (Claude, GPT, or Gemini), export ...
 
-### ⚙️ DevOps & Infrastructure
+## ⚙️ DevOps & Infrastructure
 *CI/CD, containers, orchestration, cloud infrastructure*
 
 - [dockur/windows](https://github.com/dockur/windows) `Shell` ⭐ 49,639 - Windows inside a Docker container.
@@ -289,9 +167,29 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) `Dockerfile` ⭐ 179 - Matomo (formerly Piwik) Docker image
 - [goofball222/pritunl](https://github.com/goofball222/pritunl) `Shell` ⭐ 123 - Pritunl Docker container with IPv6 and reverse-proxy support
 - [dockur/portainer-backup](https://github.com/dockur/portainer-backup) `JavaScript` ⭐ 118 - Portainer Backup Utility
-- *...and 21 more*
+- [demyxsh/code-server](https://github.com/demyxsh/code-server) `Shell` ⭐ 95 - Non-root Docker image running Debian and code-server.
+- [ethical-jobs/aphex](https://github.com/ethical-jobs/aphex) `Dockerfile` ⭐ 61 - Lightning fast, super slim and production hardened: Alpine, PHP, Nginx docker container.
+- [woolfg/mysql-backup-sidecar](https://github.com/woolfg/mysql-backup-sidecar) `Shell` ⭐ 46
+- [continuouspipe/dockerfiles](https://github.com/continuouspipe/dockerfiles) `Shell` ⭐ 46 - Docker base images for many technologies.
+- [kristiyan-velkov/frontend-prod-dockerfiles](https://github.com/kristiyan-velkov/frontend-prod-dockerfiles) `TypeScript` ⭐ 38 - Production-ready Dockerfiles for React.js, Angular, Vue.js, and Next.js. Optimized for performance, ...
+- [aisbergg/python-docker-compose-templer](https://github.com/aisbergg/python-docker-compose-templer) `Python` ⭐ 25 - :page_facing_up: Render Docker Compose file templates with the power of Jinja2
+- [ai-dock/onetrainer](https://github.com/ai-dock/onetrainer) `Shell` ⭐ 21 - OneTrainer docker images for use in GPU cloud and local environments. Includes AI-Dock KDE Plasma de...
+- [nkhare/container-orchestration](https://github.com/nkhare/container-orchestration) `Shell` ⭐ 16
+- [clockradios/dokploy-port-updater](https://github.com/clockradios/dokploy-port-updater) `JavaScript` ⭐ 15
+- [dazeb/coolify-mcp-enhanced](https://github.com/dazeb/coolify-mcp-enhanced) `TypeScript` ⭐ 15 - Enhanced Coolify MCP Server - Deploy apps to Coolify directly from within your vscode/cursor/windsur...
+- [gpustack/gguf-packer-go](https://github.com/gpustack/gguf-packer-go) `Go` ⭐ 14 - Deliver LLMs of GGUF format via Dockerfile.
+- [coollabsio/coolify-cdn](https://github.com/coollabsio/coolify-cdn) `Shell` ⭐ 12 - Coolify's new "CDN" to host static stuffs
+- [edouardb/dcos-terraform-scaleway](https://github.com/edouardb/dcos-terraform-scaleway) `HCL` ⭐ 8 - Terraform scripts for Scaleway to launch a DC/OS cluster.
+- [galvani/docker-mautic-dev](https://github.com/galvani/docker-mautic-dev) `PHP` ⭐ 5 - Dev environment for Mautic 5
+- [bytepark/ansible-netdata](https://github.com/bytepark/ansible-netdata) `Shell` ⭐ 2 - Ansible Role für Netdata
+- [amirhmoradi/dokploy-enhanced](https://github.com/amirhmoradi/dokploy-enhanced) `Shell` ⭐ 1 - A build of the latest version of dokploy, with hand picked PRs for custom enhancements.
+- [zver/ansible-crowdsec](https://github.com/zver/ansible-crowdsec) `Jinja` ⭐ 1 - ansible-role-crowsec
+- [Vvveb/docker](https://github.com/Vvveb/docker) `Dockerfile` ⭐ 1 - Docker Image packaging for Vvveb CMS
+- [eschercloudai/ansible-role-nvidia-driver](https://github.com/eschercloudai/ansible-role-nvidia-driver) ⭐ 1
+- [CushItRealGood/code-server-docker](https://github.com/CushItRealGood/code-server-docker) `Shell` ⭐ 1 - Run Terraform, AWSCLI, and VS Code in Docker
+- [gmangin/rundeck-ansible](https://github.com/gmangin/rundeck-ansible) ⭐ 1 - This is a role rundeck for ansible with ssl and encryption storage
 
-### 🌐 Web Development
+## 🌐 Web Development
 *Frontend, backend, fullstack frameworks and tools*
 
 - [supabase/supabase](https://github.com/supabase/supabase) `TypeScript` ⭐ 96,711 - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your we...
@@ -325,9 +223,14 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [thecreazy/cerbero](https://github.com/thecreazy/cerbero) `TypeScript` ⭐ 64 - Track your users interactions 
 - [amnezia-vpn/amneziawg-exporter](https://github.com/amnezia-vpn/amneziawg-exporter) `Python` ⭐ 27 - amneziawg-exporter 
 - [codeniko/simple-tracker](https://github.com/codeniko/simple-tracker) `JavaScript` ⭐ 25 - Easy client-side tracking library to log events, metrics, errors, and messages
-- *...and 6 more*
+- [leo-pfeiffer/portfolio_dashboard](https://github.com/leo-pfeiffer/portfolio_dashboard) `Python` ⭐ 13 - Portfolio Dashboard for your Degiro account built with Django
+- [pods-framework/pods-convert](https://github.com/pods-framework/pods-convert) `PHP` ⭐ 10 - Pods Convert is a plugin to convert a Pod type or Storage type to another.
+- [owgit/perfex-customer-merge](https://github.com/owgit/perfex-customer-merge) `PHP` ⭐ 8 - Customer Merge Module for Perfex CRM - Merge duplicate customers while preserving all associated dat...
+- [snicco/better-wp-mail](https://github.com/snicco/better-wp-mail) `PHP` ⭐ 7 - [READ ONLY] Subtree split of the snicco/better-wp-mail package (see snicco/snicco).
+- [maminio/dialdeep-server](https://github.com/maminio/dialdeep-server) `TypeScript` ⭐ 1
+- [kakaruto/dashing-js](https://github.com/kakaruto/dashing-js) `JavaScript` ⭐ 1 - Port of Dashing to node.js
 
-### 🏠 Self-Hosted
+## 🏠 Self-Hosted
 *Self-hosted alternatives, privacy-focused services*
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) `JavaScript` ⭐ 81,874 - A fancy self-hosted monitoring tool
@@ -361,9 +264,14 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [Monogramm/docker-dolibarr](https://github.com/Monogramm/docker-dolibarr) `Shell` ⭐ 73 - :whale: :elephant: Docker image for Dolibarr.
 - [sharonpraju/SupaConsole](https://github.com/sharonpraju/SupaConsole) `TypeScript` ⭐ 64 - Selfhost & Manage multiple Supabase projects
 - [benbristow/dokploy-compose-templates](https://github.com/benbristow/dokploy-compose-templates) ⭐ 63 - Collection of docker-compose configs for self-hosted tools, compatible with Dokploy
-- *...and 6 more*
+- [guessi/docker-yourls](https://github.com/guessi/docker-yourls) `PHP` ⭐ 39 - Dockerize YOURLS service (Shorten URL Service)
+- [sysblok/focalboard](https://github.com/sysblok/focalboard) `TypeScript` ⭐ 37 - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [vpnwiz/kasm-working-with-traefik](https://github.com/vpnwiz/kasm-working-with-traefik) ⭐ 25 - Making Kasm Workspaces and Traefik work together
+- [avnox-com/papermark-self-host](https://github.com/avnox-com/papermark-self-host) `JavaScript` ⭐ 5 - 🚀 Complete Docker Swarm deployment solution for [Papermark](https://github.com/mfts/papermark) - the...
+- [AnotherFoxGuy/nextcloud-sharing-path](https://github.com/AnotherFoxGuy/nextcloud-sharing-path) `PHP` ⭐ 2 - 🌩 Nextcloud app to enhance files sharing to be accessed by stored path, can be used as CDN origin.
+- [amirhmoradi/croom.to](https://github.com/amirhmoradi/croom.to) `Python` ⭐ 1 - Turn any Linux device into an enterprise-grade conference room system. Save 90%+ compared to Cisco o...
 
-### 🔌 APIs & SDKs
+## 🔌 APIs & SDKs
 *API clients, SDKs, integrations*
 
 - [novuhq/novu](https://github.com/novuhq/novu) `TypeScript` ⭐ 38,478 - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
@@ -397,9 +305,10 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [tomershvueli/n8n-nodes-apprise](https://github.com/tomershvueli/n8n-nodes-apprise) `TypeScript` ⭐ 5
 - [howtomakeaturn/EasyContact](https://github.com/howtomakeaturn/EasyContact) `PHP` ⭐ 5 - The fastest way to get users' email contact from Gmail and Microsoft Outlook.
 - [moltin/tax](https://github.com/moltin/tax) `PHP` ⭐ 4 - Tax calculations for Moltin\Cart
-- *...and 2 more*
+- [Neha-Khemchandani-52/Mautic-Text-Local-SMS-Plugin](https://github.com/Neha-Khemchandani-52/Mautic-Text-Local-SMS-Plugin) ⭐ 2 - Developed  this Text Local SMS plugin in Mautic which is alternative to Twilio plugin available in M...
+- [agivern/StockAPI](https://github.com/agivern/StockAPI) `JavaScript` ⭐ 1
 
-### 🔒 Security & Privacy
+## 🔒 Security & Privacy
 *Security tools, encryption, privacy-focused software*
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) `Java` ⭐ 63,785 - Ghidra is a software reverse engineering (SRE) framework
@@ -430,7 +339,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [leninalive/udptlspipe](https://github.com/leninalive/udptlspipe) `Go` ⭐ 1 - TLS wrapper for UDP sessions with active probing protection
 - [heptaber/wireguard_vpn](https://github.com/heptaber/wireguard_vpn) `Shell` ⭐ 1 - Script for automating Wireguard VPN server setup, Unbound DNS resolver setup.
 
-### 📦 Miscellaneous
+## 📦 Miscellaneous
 *Other useful repositories*
 
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) `Nunjucks` ⭐ 39,956 - A list of semi to fully remote-friendly companies (jobs) in tech.
@@ -459,7 +368,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [TimoKoole/Convert2PortofolioPerformance](https://github.com/TimoKoole/Convert2PortofolioPerformance) `Python` ⭐ 4 - program to convert export from DeGiro to portofolio performance
 - [Ascend-Partners/adri-irn-lab-28498](https://github.com/Ascend-Partners/adri-irn-lab-28498) `TypeScript` ⭐ 1 - LEGACY - Initial POC of the IRN Lab project. Kept for reference until full migration. Will be archiv...
 
-### 🔧 CLI Tools
+## 🔧 CLI Tools
 *Command line utilities and terminal tools*
 
 - [openai/codex](https://github.com/openai/codex) `Rust` ⭐ 57,210 - Lightweight coding agent that runs in your terminal
@@ -481,7 +390,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [zinkwazi/pfmb](https://github.com/zinkwazi/pfmb) `Shell` ⭐ 19 - pfSense Multi Backup - backs up multiple pfSense instances.
 - [bayesimpact/bayes-developer-setup](https://github.com/bayesimpact/bayes-developer-setup) `Python` ⭐ 2 - PUBLICLY VISIBLE. Tools, files, and other necessary things to get your machine configured for work a...
 
-### 🎨 Design & UI
+## 🎨 Design & UI
 *Design tools, UI components, styling*
 
 - [penpot/penpot](https://github.com/penpot/penpot) `Clojure` ⭐ 43,860 - Penpot: The open-source design tool for design and code collaboration
@@ -502,7 +411,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [nafasebra/iranian-colors](https://github.com/nafasebra/iranian-colors) `HTML` ⭐ 105 - A collection of colors inspired by Iran's nature, architecture, food, and crafts
 - [SeattleDevs/bootstrap-social](https://github.com/SeattleDevs/bootstrap-social) `HTML` ⭐ 1 - :couple: Social Sign-In Buttons for Bootstrap
 
-### 🖥️ Desktop Applications
+## 🖥️ Desktop Applications
 *Desktop apps, GUI frameworks, system utilities*
 
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) `C#` ⭐ 128,355 - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline ever...
@@ -521,7 +430,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [zhound420/bytebot-hawkeye-holo](https://github.com/zhound420/bytebot-hawkeye-holo) `TypeScript` ⭐ 23 - A bytebot variant that uses Holo 1.5 7b to control the desktop
 - [siefkenj/MailMergeP](https://github.com/siefkenj/MailMergeP) `TypeScript` ⭐ 18 - Mail Merge P add-on for Thunderbird
 
-### 📱 Mobile Development
+## 📱 Mobile Development
 *iOS, Android, cross-platform mobile frameworks*
 
 - [RocketChat/Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) `TypeScript` ⭐ 2,335 - The Secure CommsOS™ for mission-critical operations
@@ -538,7 +447,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [appfeel/cordova-play-services-version-adapter](https://github.com/appfeel/cordova-play-services-version-adapter) `JavaScript` ⭐ 6 - Cordova/Ionic Google Play Services Versions Incompatibility Adapter
 - [infobip/mobile-messaging-mmine](https://github.com/infobip/mobile-messaging-mmine) `Ruby` ⭐ 3 - Mobile Messaging iOS Notification Extension Integration Tool!!!
 
-### 📚 Documentation & Learning
+## 📚 Documentation & Learning
 *Learning resources, tutorials, documentation tools*
 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐ 336,202 - A complete computer science study plan to become a software engineer.
@@ -553,7 +462,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [amirrajan/survivingtheappstore](https://github.com/amirrajan/survivingtheappstore) ⭐ 947 - My book on getting to the #1 Spot in the App Store. Buy my games to support me.
 - [songquanpeng/songquanpeng](https://github.com/songquanpeng/songquanpeng) `Python` ⭐ 18 - Automatically update your GitHub profile with GitHub Actions.
 
-### 📊 Data Engineering
+## 📊 Data Engineering
 *Data pipelines, ETL, databases, analytics*
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) `TypeScript` ⭐ 171,100 - Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
@@ -563,7 +472,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) `Python` ⭐ 2,868
 - [DrSnowbird/openrefine](https://github.com/DrSnowbird/openrefine) `Shell` ⭐ 4 - OpenRefine Docker for Data ETL/ELT
 
-### 💾 Databases
+## 💾 Databases
 *Database systems, ORMs, data storage*
 
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) `Go` ⭐ 42,402 - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
@@ -571,7 +480,7 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) `Go` ⭐ 15,468 - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the co...
 - [pinterest/mysql_utils](https://github.com/pinterest/mysql_utils) `Python` ⭐ 881 - Pinterest MySQL Management Tools
 
-### 🚀 Starter Templates
+## 🚀 Starter Templates
 *Boilerplates, starter kits, project templates*
 
 - [makerkit/next-supabase-saas-kit-turbo](https://github.com/makerkit/next-supabase-saas-kit-turbo) `TypeScript` ⭐ 257 - SaaS Kit Starter for Next.js and Supabase - Turbo Edition
@@ -579,46 +488,13 @@ Automatically generated and maintained by <a href="https://github/amirhmoradi/st
 - [ntimo/coder-hetzner-cloud-template](https://github.com/ntimo/coder-hetzner-cloud-template) `HCL` ⭐ 30 - This repo contains a Terraform template for Coder https://github.com/coder/coder to setup a cloud in...
 - [platformsh-templates/akeneo](https://github.com/platformsh-templates/akeneo) `PHP` ⭐ 4 - Akeneo template for Platform.sh.
 
-### 🧪 Testing & QA
+## 🧪 Testing & QA
 *Testing frameworks, quality assurance tools*
 
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) `JavaScript` ⭐ 4,382 - Google Lighthouse for your entire site.
 - [10up/wp_mock](https://github.com/10up/wp_mock) `PHP` ⭐ 709 - WordPress API Mocking Framework
 - [Brain-WP/BrainMonkey](https://github.com/Brain-WP/BrainMonkey) `PHP` ⭐ 326 - Mocking utility for PHP functions and WordPress plugin API
 
-*[View all 405 starred repositories →](STARRED_REPOS.md)*
-
-
 ---
 
-<details>
-<summary>🤖 <em>How is this generated?</em></summary>
-
-This section is automatically updated using [**Starred**](https://github.com/amirhmoradi/starred) - an open-source tool that:
-
-- 🤖 Uses AI (Claude, GPT, or Gemini) to intelligently categorize your GitHub stars
-- 📝 Generates beautiful Markdown documentation
-- 🔄 Runs daily via GitHub Actions
-- 👤 Auto-updates your profile README
-
-**[Set it up for your profile →](https://github.com/amirhmoradi/starred)**
-
-</details>
-
-<!-- STARRED_REPOS_END -->
-
-
----
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amirhmoradi&theme=flat&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
-<p align="center">
-  <i>Open to select consulting engagements and advisory board positions</i>
-</p>
-
-<p align="center">
-  <sub>⭐ Bridging the gap between AI innovation and organizational reality</sub>
-</p>
+*Generated by [Starred](https://github.com/amirhmoradi/starred) - AI-powered GitHub stars organizer*
