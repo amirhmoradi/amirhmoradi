@@ -192,6 +192,18 @@ I work best with organizations that are:
 
 ---
 
+## ⭐ My Starred Repositories
+
+Automatically generated and maintained by <a href="https://github/amirhmoradi/starred">⭐ Starred</a>.
+
+<!-- STARRED_REPOS_START -->
+<!-- Content will be auto-inserted here -->
+<!-- STARRED_REPOS_END -->
+
+
+---
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amirhmoradi&theme=flat&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
