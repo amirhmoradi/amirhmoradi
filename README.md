@@ -194,7 +194,7 @@ I work best with organizations that are:
 
 ## ⭐ My Starred Repositories
 
-Automatically generated and maintained by <a href="https://github/amirhmoradi/starred">⭐ Starred</a>.
+Automatically generated and maintained by <a href="https://github.com/amirhmoradi/starred">⭐ Starred</a>.
 
 <!-- STARRED_REPOS_START -->
 
